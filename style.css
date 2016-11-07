@@ -2,10 +2,12 @@ p {
   color:red;
   font-family: Baskerville Old Face, sans-serif;
   font-size: 3em;
+  background-color:black;
 }
 h1 { color:blue;
   font-family: Blackadder ITC, sans-serif;
   font size: 1em;
+  background-color:black;
 }
 img {
   animation-duration: 2s;
@@ -20,6 +22,3 @@ img {
     to {
       margin-left: 1000px;
     }
-html {
-  background-color:black;
-}
